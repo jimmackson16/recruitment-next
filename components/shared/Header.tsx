@@ -7,10 +7,10 @@ const Header = () => {
         <header className='header'>
             <Link href="/" className='flex items-center gap-2 md:py-2'>
                 <Image 
-                  src="/assets/images/logo-icon.svg"  
+                  src="/assets/images/logo.png"  
                   alt="logo"
-                  width={28}
-                  height={28}
+                  width={200}
+                  height={80}
                 />
             </Link>
             <Link href='/about'>

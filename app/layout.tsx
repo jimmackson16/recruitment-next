@@ -11,8 +11,8 @@ const IBMPlex = IBM_Plex_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Recruitlink",
-  description: "Recruitment submission",
+  title: "CM Recruitment Onboarding Portal",
+  description: "Application approval portal. Onboarding portal for approved applicants",
 };
 
 export default function RootLayout({

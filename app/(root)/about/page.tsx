@@ -4,14 +4,14 @@ const About = () => {
   return (
     <section className='mt-10'>
       <div className='text-center text-sm mt-10'>
-            <p>Recruitment Company Limited 2024</p>
-            <p>Company no. 12345678</p>
+            <p>CM Transportation Services Limited 2024</p>
+            <p>Company no. 15895579</p>
             </div>
             <div className='text-center text-sm'>
-                <p>180 old street</p>
+                <p>Head Office</p>
+                <p>4A Cabot Square</p>
                 <p>London</p>
-                <p>EC1V 2PA</p>
-                <p>0207 635 2121</p>
+                <p>E14 4QT</p>
             </div>
     </section>
   )
